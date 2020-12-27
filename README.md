@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+
+## Greeting all Visitors and Follower
+
+If you love me or love my works please make a donation.
+
+It will make a somthing differance...
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T62W57T)
+
+### Discord: [𝓧-𝓔𝓬𝓾𝓽𝓲𝓞𝓷𝓷𝓮𝓻]#1738
 
 <!--
 **X-EcutiOnner/X-EcutiOnner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
