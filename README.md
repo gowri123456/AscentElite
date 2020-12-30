@@ -1,10 +1,28 @@
+# สวัสดี 👋 ทุกท่านที่เข้ามาเยี่ยมชมและติดตาม
+
+พูดคุยทั่วไปเกี่ยวกับ RO ปรึกษาปัญหา หรือขอคำแนะนำ
+
+สามารถเข้ามาพูดคุยแลกเปลี่ยนความคิดเห็นร่วมกับสมาชิกคนอื่นๆ ได้ใน [ดิสคอร์ด](https://discord.gg/aY3AuRZ)
+
+-------
+
 # Hi there 👋 Greeting all Visitors and Follower
 
-If you love me or love my works please make a donation, it will make a somthing differance...
+General talk about RO, discuss issues or seek advice.
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T62W57T)
+Able to chat and exchange ideas with other members in [Discord](https://discord.gg/aY3AuRZ)
+
+-------
+
+# Donations
+
+[Donate with Paypal](https://paypal.me/executionner)
+
+[Donate with Ko-fi](https://ko-fi.com/T6T62W57T)
 
 #### Discord: [𝓧-𝓔𝓬𝓾𝓽𝓲𝓞𝓷𝓷𝓮𝓻]#1738
+
+-------
 
 <!--
 **X-EcutiOnner/X-EcutiOnner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
