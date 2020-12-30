@@ -16,9 +16,9 @@ Able to chat and exchange ideas with other members in [Discord](https://discord.
 
 # Donations
 
-[Donate with Paypal](https://paypal.me/executionner)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T62W57T)
 
-[Donate with Ko-fi](https://ko-fi.com/T6T62W57T)
+Thanks so much for your support.
 
 #### Discord: [𝓧-𝓔𝓬𝓾𝓽𝓲𝓞𝓷𝓷𝓮𝓻]#1738
 
