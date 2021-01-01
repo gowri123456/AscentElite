@@ -20,7 +20,7 @@ Able to chat and exchange ideas with other members in [Discord](https://discord.
 
 Thanks so much for your support.
 
-#### Discord: [𝓧-𝓔𝓬𝓾𝓽𝓲𝓞𝓷𝓷𝓮𝓻]#1738
+#### Discord: X-EcutiOnner#1738
 
 -------
 
