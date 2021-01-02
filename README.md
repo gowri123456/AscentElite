@@ -22,7 +22,9 @@ Able to chat and exchange ideas with other members in [Discord](https://discord.
 
 #### Gitee: https://gitee.com/X-EcutiOnner
 
-#### Discord: 𝓧-𝓔𝓬𝓾𝓽𝓲𝓞𝓷𝓷𝓮𝓻#1738
+#### Discord Server: https://discord.gg/aY3AuRZ
+
+#### Discord ID: 𝓧-𝓔𝓬𝓾𝓽𝓲𝓞𝓷𝓷𝓮𝓻#1738
 
 -------
 
