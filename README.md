@@ -14,13 +14,23 @@ Able to chat and exchange ideas with other members in [Discord](https://discord.
 
 -------
 
+# Profiles
+
+#### Github: https://github.com/X-EcutiOnner
+
+#### Gitlab: https://gitlab.com/X-EcutiOnner
+
+#### Gitee: https://gitee.com/X-EcutiOnner
+
+#### Discord: 𝓧-𝓔𝓬𝓾𝓽𝓲𝓞𝓷𝓷𝓮𝓻#1738
+
+-------
+
 # Donations
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T62W57T)
 
 Thanks so much for your support.
-
-#### Discord: X-EcutiOnner#1738
 
 -------
 
