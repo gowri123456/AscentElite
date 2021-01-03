@@ -20,11 +20,9 @@ Able to chat and exchange ideas with other members in [Discord](https://discord.
 
 #### Gitlab: https://gitlab.com/X-EcutiOnner
 
-#### Gitee: https://gitee.com/X-EcutiOnner
-
 #### Discord Server: https://discord.gg/aY3AuRZ
 
-#### Discord ID: 𝓧-𝓔𝓬𝓾𝓽𝓲𝓞𝓷𝓷𝓮𝓻#1738
+#### Discord ID: [𝓧-𝓔𝓬𝓾𝓽𝓲𝓞𝓷𝓷𝓮𝓻]#1738
 
 -------
 
