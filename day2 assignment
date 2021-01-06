@@ -1,0 +1,25 @@
+assignment1
+x=int(input('enter the number:'))
+y=2*x+5/x**2+5*x+6
+print('result is',y)
+x=int(input('enter the number:'))
+y=x**2+5*x+6/2*x+5
+print('result is',y)
+x=int(input('enter the number:'))
+y=(2*x-3)(x+9)
+print('result is',y)
+#assignment2
+username = india
+password=ind
+user=input(('enter user name:'))
+passw=input(('enter password:'))
+while password != passw and username !=user:
+    if username = india:
+    if password=ind:
+    print('congrats login successfully')
+    else:
+    print('password wrong try again')
+
+
+
+
