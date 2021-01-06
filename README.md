@@ -14,15 +14,26 @@ Able to chat and exchange ideas with other members in [Discord](https://discord.
 
 -------
 
-# Profiles
+# AscentElite Team Profiles
 
-#### Github: https://github.com/X-EcutiOnner
+#### X-EcutiOnner (@X-EcutiOnner)
+   Github: [https://github.com/X-EcutiOnner](https://github.com/X-EcutiOnner)
 
-#### Gitlab: https://gitlab.com/X-EcutiOnner
+   Gitlab: [https://gitlab.com/X-EcutiOnner](https://gitlab.com/X-EcutiOnner)
 
-#### Discord Server: https://discord.gg/aY3AuRZ
+    Discord ID: [𝓧-𝓔𝓬𝓾𝓽𝓲𝓞𝓷𝓷𝓮𝓻]#1738
 
-#### Discord ID: [𝓧-𝓔𝓬𝓾𝓽𝓲𝓞𝓷𝓷𝓮𝓻]#1738
+#### CosmicTraveler (@CosmicTraveler)
+   Github: [https://github.com/CosmicTraveler](https://github.com/CosmicTraveler)
+
+    Discord ID: Cosmic Traveler#0835
+
+#### qwerty7vp (@qwerty7vp)
+   Github: [https://github.com/qwerty7vp](https://github.com/qwerty7vp)
+
+   Gitlab: [https://gitlab.com/qwerty7vp](https://gitlab.com/qwerty7vp)
+
+    Discord ID: qwerty7#7048
 
 -------
 
@@ -35,7 +46,7 @@ Thanks so much for your support.
 -------
 
 <!--
-**X-EcutiOnner/X-EcutiOnner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AscentElite/AscentElite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
